@@ -81,13 +81,8 @@ Feel free to fork this repository, create a new branch, and submit a pull reques
 
 ---
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Contact
 For any queries or suggestions, contact:
-- **Your Name** – anitachandrant@gmail.com(mailto:your.email@example.com)
+- **Your Name** – anitachandrant@gmail.com
 
 ---
